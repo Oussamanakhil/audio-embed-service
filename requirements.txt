@@ -1,0 +1,5 @@
+runpod
+numpy
+librosa
+soundfile
+requests
