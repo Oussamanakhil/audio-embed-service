@@ -1,5 +1,9 @@
 runpod
 numpy
-librosa
+scipy
 soundfile
+librosa
+torch
+transformers
+ffmpeg-python
 requests
